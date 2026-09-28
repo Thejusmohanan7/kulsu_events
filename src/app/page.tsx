@@ -13,13 +13,13 @@ const EXT = "jpeg";
 const CATEGORIES = [
   {
     slug: "gift-hamper",
-    name: "Gift Hampers",
+    name: "Gift-Hampers",
     blurb: "For every occasion",
     files: ["Gift-hamper"],
   },
   {
     slug: "kids-hamper",
-    name: "Kids Hampers",
+    name: "Kids-Hampers",
     blurb: "Birthdays and treats",
     files: ["Kids-hamper-1", "Kids-hamper-2"],
   },
@@ -31,13 +31,13 @@ const CATEGORIES = [
   },
   {
     slug: "dry-fruits",
-    name: "Dry Fruits",
+    name: "Dry-Fruits",
     blurb: "Premium and festive",
     files: ["Dry-fruits-hamper-1", "Dry-fruits-hamper-2"],
   },
   {
     slug: "engagement",
-    name: "Engagement",
+    name: "Engagement-Hampers",
     blurb: "Ring trays and trousseau",
     files: [
       "Engagement-hamper-1",
@@ -48,31 +48,31 @@ const CATEGORIES = [
   },
   {
     slug: "nikkah",
-    name: "Nikkah",
+    name: "Nikkah-Hampers",
     blurb: "Elegant nikkah gifts",
     files: ["Nikkah-hamper"],
   },
   {
     slug: "musalla",
-    name: "Musalla",
+    name: "Musalla-Hampers  ",
     blurb: "Prayer mat sets",
     files: ["musalla1"],
   },
   {
     slug: "watch-hamper",
-    name: "Watch Hampers",
+    name: "Watch-Hampers",
     blurb: "Gifts for him",
     files: ["Watch-hamper"],
   },
   {
     slug: "trolley-hamper",
-    name: "Trolley Hampers",
+    name: "Trolley-Hampers",
     blurb: "Grand statement gifts",
     files: ["Trolley-hamper-1", "Trolley-hamper-2"],
   },
   {
     slug: "cake-hamper",
-    name: "Cake Hampers",
+    name: "Cake-Hampers",
     blurb: "Cake with gifts",
     files: ["Cake-hamper"],
   },
@@ -95,7 +95,7 @@ const CATEGORIES = [
   },
   {
     slug: "custom",
-    name: "Custom Orders",
+    name: "Custom-Orders",
     blurb: "Invitations and chocolate",
     files: [
       "Wedding-invitation",
