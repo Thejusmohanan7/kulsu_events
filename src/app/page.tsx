@@ -324,7 +324,6 @@ export default function Home() {
           ))}
         </Stagger>
       </section>
-
     </div>
   );
 }
