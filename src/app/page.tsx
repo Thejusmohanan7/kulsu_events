@@ -325,26 +325,6 @@ export default function Home() {
         </Stagger>
       </section>
 
-      {/* Events teaser */}
-      <section className="px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
-        <Reveal>
-          <div className="rounded-3xl border border-gold/40 bg-ink-soft p-6 text-center sm:p-10">
-            <h2 className="font-script text-3xl text-gold sm:text-4xl">
-              Event planning, coming soon
-            </h2>
-            <p className="mx-auto mt-2 max-w-md text-cream/70">
-              Engagements, birthdays and more. Get in touch to plan yours with
-              us.
-            </p>
-            <Link
-              href="/events"
-              className="mt-5 inline-block rounded-full bg-gold px-6 py-3 font-semibold text-black transition duration-300 hover:-translate-y-0.5 hover:bg-gold-light hover:shadow-[0_8px_24px_rgba(201,151,62,0.35)] active:scale-95"
-            >
-              Learn more
-            </Link>
-          </div>
-        </Reveal>
-      </section>
     </div>
   );
 }

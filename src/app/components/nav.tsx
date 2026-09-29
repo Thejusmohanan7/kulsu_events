@@ -240,14 +240,6 @@ export default function Nav() {
                             Bouquets
                         </Link>
 
-                        <Link
-                            href="/events"
-                            aria-current={isActive("/events") ? "page" : undefined}
-                            className={desktopLink(isActive("/events"))}
-                        >
-                            Events
-                            {isActive("/events") && underline}
-                        </Link>
 
                         <Link
                             href={whatsappHref}
